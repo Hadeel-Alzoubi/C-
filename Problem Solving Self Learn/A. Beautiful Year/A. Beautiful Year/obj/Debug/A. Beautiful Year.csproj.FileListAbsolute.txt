@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Beautiful Year\A. Beautiful Year\bin\Debug\A.Beautiful_Year.exe.config
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Beautiful Year\A. Beautiful Year\bin\Debug\A.Beautiful_Year.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Beautiful Year\A. Beautiful Year\bin\Debug\A.Beautiful_Year.pdb
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Beautiful Year\A. Beautiful Year\obj\Debug\A. Beautiful Year.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Beautiful Year\A. Beautiful Year\obj\Debug\A. Beautiful Year.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Beautiful Year\A. Beautiful Year\obj\Debug\A.Beautiful_Year.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Beautiful Year\A. Beautiful Year\obj\Debug\A.Beautiful_Year.pdb

@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\Lectuer2\Lectuer2\bin\Debug\Lectuer2.exe.config
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\Lectuer2\Lectuer2\bin\Debug\Lectuer2.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\Lectuer2\Lectuer2\bin\Debug\Lectuer2.pdb
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\Lectuer2\Lectuer2\obj\Debug\Lectuer2.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\Lectuer2\Lectuer2\obj\Debug\Lectuer2.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\Lectuer2\Lectuer2\obj\Debug\Lectuer2.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\Lectuer2\Lectuer2\obj\Debug\Lectuer2.pdb

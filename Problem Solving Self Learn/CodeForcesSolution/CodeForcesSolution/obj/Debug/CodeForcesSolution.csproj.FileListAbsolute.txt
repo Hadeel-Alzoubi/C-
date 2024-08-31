@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\CodeForcesSolution\CodeForcesSolution\bin\Debug\CodeForcesSolution.exe.config
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\CodeForcesSolution\CodeForcesSolution\bin\Debug\CodeForcesSolution.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\CodeForcesSolution\CodeForcesSolution\bin\Debug\CodeForcesSolution.pdb
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\CodeForcesSolution\CodeForcesSolution\obj\Debug\CodeForcesSolution.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\CodeForcesSolution\CodeForcesSolution\obj\Debug\CodeForcesSolution.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\CodeForcesSolution\CodeForcesSolution\obj\Debug\CodeForcesSolution.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\CodeForcesSolution\CodeForcesSolution\obj\Debug\CodeForcesSolution.pdb

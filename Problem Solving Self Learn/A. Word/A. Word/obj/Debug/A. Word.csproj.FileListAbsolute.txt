@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Word\A. Word\bin\Debug\A.Word.exe.config
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Word\A. Word\bin\Debug\A.Word.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Word\A. Word\bin\Debug\A.Word.pdb
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Word\A. Word\obj\Debug\A. Word.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Word\A. Word\obj\Debug\A. Word.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Word\A. Word\obj\Debug\A.Word.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Word\A. Word\obj\Debug\A.Word.pdb

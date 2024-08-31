@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\ClassTasks\classTask\classTask\bin\Debug\classTask.exe.config
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\ClassTasks\classTask\classTask\bin\Debug\classTask.exe
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\ClassTasks\classTask\classTask\bin\Debug\classTask.pdb
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\ClassTasks\classTask\classTask\obj\Debug\classTask.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\ClassTasks\classTask\classTask\obj\Debug\classTask.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\ClassTasks\classTask\classTask\obj\Debug\classTask.exe
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\ClassTasks\classTask\classTask\obj\Debug\classTask.pdb

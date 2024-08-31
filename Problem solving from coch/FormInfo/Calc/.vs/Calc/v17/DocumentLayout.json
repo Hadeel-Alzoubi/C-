@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\FormInfo\\Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E665C1F1-1DB2-4FB8-B77A-895BCA558B20}|Calc\\Calc.csproj|c:\\users\\orange\\desktop\\c#\\problem solving from coch\\forminfo\\calc\\calc\\calculater.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E665C1F1-1DB2-4FB8-B77A-895BCA558B20}|Calc\\Calc.csproj|solutionrelative:calc\\calculater.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E665C1F1-1DB2-4FB8-B77A-895BCA558B20}|Calc\\Calc.csproj|C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\FormInfo\\Calc\\calc\\calculater.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E665C1F1-1DB2-4FB8-B77A-895BCA558B20}|Calc\\Calc.csproj|solutionrelative:calc\\calculater.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculater.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\FormInfo\\Calc\\Calc\\Calculater.aspx.cs",
+              "RelativeDocumentMoniker": "Calc\\Calculater.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\FormInfo\\Calc\\Calc\\Calculater.aspx.cs",
+              "RelativeToolTip": "Calc\\Calculater.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:05:17.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculater.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\FormInfo\\Calc\\Calc\\Calculater.aspx",
+              "RelativeDocumentMoniker": "Calc\\Calculater.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\FormInfo\\Calc\\Calc\\Calculater.aspx",
+              "RelativeToolTip": "Calc\\Calculater.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T15:59:38.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

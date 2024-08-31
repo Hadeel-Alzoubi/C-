@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#\\Problem Solving Self Learn\\A. Nearly Lucky Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1B7ECF-C063-47A6-A8E3-923AC7AD80FD}|A. Nearly Lucky Number\\A. Nearly Lucky Number.csproj|c:\\users\\orange\\desktop\\c#\\problem solving self learn\\a. nearly lucky number\\a. nearly lucky number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1B7ECF-C063-47A6-A8E3-923AC7AD80FD}|A. Nearly Lucky Number\\A. Nearly Lucky Number.csproj|solutionrelative:a. nearly lucky number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Problem Solving Self Learn\\A. Nearly Lucky Number\\A. Nearly Lucky Number\\Program.cs",
+              "RelativeDocumentMoniker": "A. Nearly Lucky Number\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Problem Solving Self Learn\\A. Nearly Lucky Number\\A. Nearly Lucky Number\\Program.cs",
+              "RelativeToolTip": "A. Nearly Lucky Number\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:55:16.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Quiz\Quiz\obj\Debug\Quiz.pdb

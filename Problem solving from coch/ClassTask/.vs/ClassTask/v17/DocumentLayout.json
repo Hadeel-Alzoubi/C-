@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\ClassTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C44C7A1-B83E-4C8B-A637-CDFEB78A6ACD}|ClassTask\\ClassTask.csproj|c:\\users\\orange\\desktop\\c#\\problem solving from coch\\classtask\\classtask\\info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C44C7A1-B83E-4C8B-A637-CDFEB78A6ACD}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C44C7A1-B83E-4C8B-A637-CDFEB78A6ACD}|ClassTask\\ClassTask.csproj|c:\\users\\orange\\desktop\\c#\\problem solving from coch\\classtask\\classtask\\forminput.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C44C7A1-B83E-4C8B-A637-CDFEB78A6ACD}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\forminput.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Info.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\ClassTask\\ClassTask\\Info.aspx",
+              "RelativeDocumentMoniker": "ClassTask\\Info.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\ClassTask\\ClassTask\\Info.aspx",
+              "RelativeToolTip": "ClassTask\\Info.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:08:35.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forminput.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\ClassTask\\ClassTask\\forminput.aspx",
+              "RelativeDocumentMoniker": "ClassTask\\forminput.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#\\Problem solving from coch\\ClassTask\\ClassTask\\forminput.aspx",
+              "RelativeToolTip": "ClassTask\\forminput.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:08:34.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

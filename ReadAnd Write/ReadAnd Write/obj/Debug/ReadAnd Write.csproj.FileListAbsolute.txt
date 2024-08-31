@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\ReadAnd Write\ReadAnd Write\bin\Debug\ReadAnd Write.exe.config
+C:\Users\Orange\Desktop\C#\ReadAnd Write\ReadAnd Write\bin\Debug\ReadAnd Write.exe
+C:\Users\Orange\Desktop\C#\ReadAnd Write\ReadAnd Write\bin\Debug\ReadAnd Write.pdb
+C:\Users\Orange\Desktop\C#\ReadAnd Write\ReadAnd Write\obj\Debug\ReadAnd Write.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\ReadAnd Write\ReadAnd Write\obj\Debug\ReadAnd Write.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\ReadAnd Write\ReadAnd Write\obj\Debug\ReadAnd Write.exe
+C:\Users\Orange\Desktop\C#\ReadAnd Write\ReadAnd Write\obj\Debug\ReadAnd Write.pdb

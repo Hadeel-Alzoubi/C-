@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem solving from coch\PrivatPublicProtect\PrivatPublicProtect\bin\Debug\PrivatPublicProtect.exe.config
+C:\Users\Orange\Desktop\C#\Problem solving from coch\PrivatPublicProtect\PrivatPublicProtect\bin\Debug\PrivatPublicProtect.exe
+C:\Users\Orange\Desktop\C#\Problem solving from coch\PrivatPublicProtect\PrivatPublicProtect\bin\Debug\PrivatPublicProtect.pdb
+C:\Users\Orange\Desktop\C#\Problem solving from coch\PrivatPublicProtect\PrivatPublicProtect\obj\Debug\PrivatPublicProtect.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem solving from coch\PrivatPublicProtect\PrivatPublicProtect\obj\Debug\PrivatPublicProtect.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem solving from coch\PrivatPublicProtect\PrivatPublicProtect\obj\Debug\PrivatPublicProtect.exe
+C:\Users\Orange\Desktop\C#\Problem solving from coch\PrivatPublicProtect\PrivatPublicProtect\obj\Debug\PrivatPublicProtect.pdb

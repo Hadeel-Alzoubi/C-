@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Problem Solving\Problem Solving\bin\Debug\Problem Solving.exe.config
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Problem Solving\Problem Solving\bin\Debug\Problem Solving.exe
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Problem Solving\Problem Solving\bin\Debug\Problem Solving.pdb
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Problem Solving\Problem Solving\obj\Debug\Problem Solving.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Problem Solving\Problem Solving\obj\Debug\Problem Solving.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Problem Solving\Problem Solving\obj\Debug\Problem Solving.exe
+C:\Users\Orange\Desktop\C#\Problem solving from coch\Problem Solving\Problem Solving\obj\Debug\Problem Solving.pdb

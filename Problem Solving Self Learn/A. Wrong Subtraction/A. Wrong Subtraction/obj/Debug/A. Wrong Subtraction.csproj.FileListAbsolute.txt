@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\A.Wrong_Subtraction.exe.config
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\A.Wrong_Subtraction.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\A.Wrong_Subtraction.pdb
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A. Wrong Subtraction.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A. Wrong Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A.Wrong_Subtraction.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A.Wrong_Subtraction.pdb

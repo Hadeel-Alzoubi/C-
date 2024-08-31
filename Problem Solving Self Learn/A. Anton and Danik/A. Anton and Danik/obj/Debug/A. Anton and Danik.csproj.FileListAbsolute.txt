@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Anton and Danik\A. Anton and Danik\bin\Debug\A.Anton_and_Danik.exe.config
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Anton and Danik\A. Anton and Danik\bin\Debug\A.Anton_and_Danik.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Anton and Danik\A. Anton and Danik\bin\Debug\A.Anton_and_Danik.pdb
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Anton and Danik\A. Anton and Danik\obj\Debug\A. Anton and Danik.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Anton and Danik\A. Anton and Danik\obj\Debug\A. Anton and Danik.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Anton and Danik\A. Anton and Danik\obj\Debug\A.Anton_and_Danik.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Anton and Danik\A. Anton and Danik\obj\Debug\A.Anton_and_Danik.pdb

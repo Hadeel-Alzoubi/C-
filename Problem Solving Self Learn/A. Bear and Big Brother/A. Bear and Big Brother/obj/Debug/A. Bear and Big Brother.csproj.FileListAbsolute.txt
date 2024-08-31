@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Bear and Big Brother\A. Bear and Big Brother\bin\Debug\A.Bear_and_Big_Brother.exe.config
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Bear and Big Brother\A. Bear and Big Brother\bin\Debug\A.Bear_and_Big_Brother.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Bear and Big Brother\A. Bear and Big Brother\bin\Debug\A.Bear_and_Big_Brother.pdb
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A. Bear and Big Brother.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A. Bear and Big Brother.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A.Bear_and_Big_Brother.exe
+C:\Users\Orange\Desktop\C#\Problem Solving Self Learn\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A.Bear_and_Big_Brother.pdb
